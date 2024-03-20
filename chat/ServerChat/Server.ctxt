@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Server
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=risposta
+comment2.target=java.lang.String\ elaborazione(java.lang.String)
+comment3.params=NN
+comment3.target=java.lang.Boolean\ cercaN(java.lang.String)
+numComments=4

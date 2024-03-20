@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cilindro
+comment1.params=r
+comment1.target=Cilindro(double)
+comment2.params=h
+comment2.target=void\ setAltezza(int)
+comment3.params=
+comment3.target=double\ calcolaVolume()
+comment4.params=
+comment4.target=double\ calcolaSuperficielaterale()
+comment5.params=
+comment5.target=double\ calcolaSuperficie()
+numComments=6

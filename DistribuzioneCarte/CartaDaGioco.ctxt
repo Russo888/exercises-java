@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=CartaDaGioco
+comment1.params=tipoCarte\ seme\ coperta\ numero\ colore
+comment1.target=CartaDaGioco(java.lang.String,\ java.lang.String,\ boolean,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=void\ scopri()
+comment11.params=
+comment11.target=void\ copri()
+comment12.params=
+comment12.target=boolean\ getScoperta()
+comment2.params=seme
+comment2.target=void\ setTipoCarte(java.lang.String)
+comment3.params=tipoCarte
+comment3.target=void\ setSeme(java.lang.String)
+comment4.params=numero
+comment4.target=void\ setNumero(int)
+comment5.params=colore
+comment5.target=void\ setColore(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTipoCarte()
+comment7.params=
+comment7.target=java.lang.String\ getSeme()
+comment8.params=
+comment8.target=int\ getNumero()
+comment9.params=
+comment9.target=java.lang.String\ getColore()
+numComments=13

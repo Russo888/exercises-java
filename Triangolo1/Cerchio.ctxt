@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cerchio
+comment1.params=r
+comment1.target=Cerchio(double)
+comment2.params=
+comment2.target=double\ calcolaDiametro()
+comment3.params=
+comment3.target=double\ calcolaCirconferenza()
+comment4.params=
+comment4.target=double\ calcolaArea()
+numComments=5

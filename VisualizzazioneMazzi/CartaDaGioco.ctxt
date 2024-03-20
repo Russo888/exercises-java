@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CartaDaGioco
+comment1.params=seme\ valore\ scoperta\ indirizzo
+comment1.target=CartaDaGioco(java.lang.String,\ int,\ boolean,\ java.lang.String)
+comment10.params=parametro
+comment10.target=void\ setSeme(java.lang.String)
+comment11.params=parametro
+comment11.target=void\ setValore(int)
+comment2.params=
+comment2.target=javax.swing.Icon\ getImmagineCarta()
+comment3.params=
+comment3.target=java.lang.String\ getIndirizzo()
+comment4.params=indirizzo
+comment4.target=void\ setIndirizzo(java.lang.String)
+comment5.params=
+comment5.target=void\ scopri()
+comment6.params=
+comment6.target=void\ copri()
+comment7.params=
+comment7.target=java.lang.String\ getSeme()
+comment8.params=
+comment8.target=int\ getNumero()
+comment9.params=
+comment9.target=boolean\ getScoperta()
+numComments=12
